@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.App h1 {
+  font-size: 40px;
+}
+
+.link-menu {
+  margin: 10px 0;
+  text-decoration: none; 
+}
